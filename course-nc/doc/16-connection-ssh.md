@@ -2,7 +2,7 @@
 # CONNECTION SSH
 
 
-## CREATE KEY SSH ( LINUX - MAC )
+## CREATE KEY SSH ( LINUX )
 
     1. El comando genera una llave publica y otra privada en la carpeta personal .ssh
 
@@ -18,6 +18,12 @@
 
         $ ssh-add /home/andres/.ssh/id_rsa
             answer: identity added
+
+
+## CREATE KEY SSH ( MAC )
+
+
+## CREATE KEY SSH ( WINDOWS )
 
 
 ## CONFIGURATION AWS
